@@ -1,6 +1,6 @@
 # ML-AD-Interaction-Analysis
 INTRODUCTION:
-A mega-online shopping mall provides various baby brands to customers. In order to optimize online advertisements throughout websites, they want to predict the view-to-click probability given the information below.
+A mega-online shopping mall provides different baby brands to customers. In order to optimize online advertisements throughout websites, they want to predict the view-to-click probability given the information below.
 
 The data consists of:
 
