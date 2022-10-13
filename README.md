@@ -1,4 +1,4 @@
-# ML AD interaction analysis
+# ML AD Interaction analysis
 INTRODUCTION:
 A mega-online shopping mall provides vaiours baby brands to customers. In order to optimize online advertisements throughout websites, they want to predict the view-to-click probability given the information below.
 
